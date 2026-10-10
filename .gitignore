@@ -1,0 +1,13 @@
+# Java / Maven
+backend/target/
+*.class
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Local uploads and secrets
+uploads/
+*.log
+.DS_Store
